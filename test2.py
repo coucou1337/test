@@ -1,5 +1,11 @@
 import subprocess
 import sys
+import os
+import socket
+import base64
+import requests
+import subprocess
+import uuid
 
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
